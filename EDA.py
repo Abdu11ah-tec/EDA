@@ -34,4 +34,4 @@ fig.show()
 # -------------------
 fig = px.scatter(df, x="price", y="quantity", color="category",
                  hover_data=["order_id", "customer_id"],
-                 title="Price vs Quantit
+                 title="Price vs Quantity by Category")
