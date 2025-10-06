@@ -20,4 +20,5 @@ pyarrow>=16.0.0
 
 # For reproducibility & caching stability
 typing_extensions>=4.10.0
-pip install openpyxl
+openpyxl>=3.1.2
+
