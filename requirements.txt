@@ -1,0 +1,22 @@
+# Core Data Handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.22.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Streamlit Web App
+streamlit>=1.38.0
+Pillow>=10.0.0
+
+# Machine Learning & Stats
+scikit-learn>=1.5.0
+scipy>=1.12.0
+
+# Optional Performance / Helpers
+pyarrow>=16.0.0
+
+# For reproducibility & caching stability
+typing_extensions>=4.10.0
