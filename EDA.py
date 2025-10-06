@@ -190,4 +190,5 @@ df.to_csv(buf, index=False)
 buf.seek(0)
 st.download_button("Download cleaned CSV", data=buf, file_name="cleaned_dataset.csv", mime="text/csv")
 
-st.success("🎉 EDA complete!
+st.success("🎉 EDA complete! Use controls in the sidebar to tweak views. If you want additional specialized analysis (cohort analysis, churn modeling, predictive features, etc.), tell me what you want next.")
+
